@@ -1,4 +1,5 @@
 # Studi Kasus – Sistem Pemerintahan (E-KTP API)
+<img width="1919" height="936" alt="Screenshot 2026-04-02 130908" src="https://github.com/user-attachments/assets/83391990-f5d6-452c-b75f-bd47cb5bed7a" />
 
 Project ini terdiri dari dua bagian:
 * **Backend** (`backend/`) — Node.js + Express JS
